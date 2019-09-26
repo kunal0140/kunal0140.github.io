@@ -1,0 +1,9 @@
+div {
+    border: 3px;
+    border-style: dotted;
+    border-color: red;
+    float: left;
+    padding: 1%;
+    box-sizing: border-box;
+    margin: 3%;
+}
